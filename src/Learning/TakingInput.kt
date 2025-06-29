@@ -1,3 +1,5 @@
+package Learning
+
 fun main(){
     println("Enter you Word: ")
     val yourword = readln()

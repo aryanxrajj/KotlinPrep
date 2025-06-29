@@ -1,4 +1,6 @@
-class LearningClasses( val a : Int , val b : Int){
+package Learning
+
+class LearningClasses(val a : Int, val b : Int){
     val Perimeter = (a + b) * 2
 }
 
